@@ -20,12 +20,12 @@ const Agency = () => {
                                 <img className='line' src={line} alt="line" />
                                 <h1 className=' ff_konexy fc_white fw_400 fs_72 mb-0 pb-2 mt-3 mt-lg-0'>WordPress Development Agency</h1>
                             </div>
-                            <h4 className=' ff_gilroy  fc_white  fs_24 fw_700 mb-0 py-22'>for Enterprise + Friendly Team</h4>
-                            <p className=' ff_gilroy  fc_gray fs_sm fw_400 mb-0  pb-1'>Vipe Studio is a WordPress Agency for development - a long-term partner for any WordPress service. Websites and,online shops development, maintenance and customization is what we do best.</p>
+                            <h4 className=' ff_gilroy  fc_white  fs_24 fw_700 mb-0 py-4'>for Enterprise + Friendly Team</h4>
+                            <p className=' ff_gilroy  fc_gray-2 fs_sm fw_400 mb-0  pb-1'>Vipe Studio is a WordPress Agency for development - a long-term partner for any WordPress service. Websites and,online shops development, maintenance and customization is what we do best.</p>
                             <div className='d-sm-flex align-items-center justify-content-center justify-content-lg-start gap-5'>
                                 <button className=' ff_gilroy fs_16  fc_white fw_600 btn-1 accordion mb-0 me-34 mt-4'>Get Started</button>
                                 <div className='d-flex align-items-center gap-2 mt-4'>
-                                    <img src={play} alt="play" />
+                                    <img className='cursor' src={play} alt="play" />
                                     <p className=' ff_gilroy  fc_white fs_sm fw_400 mb-0  ml-14 mb-0'>What is Vipe? (1min)</p>
                                 </div>
                             </div>

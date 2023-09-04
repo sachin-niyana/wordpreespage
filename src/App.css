@@ -278,6 +278,11 @@ input[type="text"] {
   border-radius: 16px;
   padding: 10px;
   border: 1px solid #e3e3e3;
+  transition: all 400ms;
+}
+
+.fc_gray-2 {
+  color: #b2b2b2;
 }
 
 .card-3:hover {
@@ -286,6 +291,7 @@ input[type="text"] {
   border-radius: 16px;
   padding: 10px;
   border: 1px solid #e3e3e3;
+  box-shadow: 0px 0px 12px #313ef7;
 
 }
 
