@@ -33,7 +33,7 @@ const Success = () => {
                         </Row>
                         <Row className='d-flex justify-content-center mb-5'>
                             <Col md={4} sm={6} className='d-flex justify-content-center' data-aos="flip-left" data-aos-duration="1500">
-                                <div className='card-3 mt-5'>
+                                <div className='card-3 mt-5 cursor'>
                                     <img className='w-100' src={ppc} alt="ppc" />
                                     <h4 className=' ff_gilroy fw_600 fs_24 fc_black mt-3'>Sit diam metus</h4>
                                     <p className='ff_gilroy fw_400 fs_16 fc_gray'>Arcu amet, consectetur vel pellentesque mattis ipsum sed mattis sed.</p>
@@ -41,7 +41,7 @@ const Success = () => {
                                 </div>
                             </Col>
                             <Col md={4} sm={6} className='d-flex justify-content-center' data-aos="flip-left" data-aos-duration="1500">
-                                <div className='card-3 mt-5'>
+                                <div className='card-3 mt-5 cursor'>
                                     <img className='w-100' src={ppc} alt="ppc" />
                                     <h4 className=' ff_gilroy fw_600 fs_24 fc_black mt-3'>Sit diam metus</h4>
                                     <p className='ff_gilroy fw_400 fs_16 fc_gray'>Arcu amet, consectetur vel pellentesque mattis ipsum sed mattis sed.</p>
@@ -49,7 +49,7 @@ const Success = () => {
                                 </div>
                             </Col>
                             <Col md={4} sm={6} className='d-flex justify-content-center' data-aos="flip-left" data-aos-duration="1500">
-                                <div className='card-3 mt-5'>
+                                <div className='card-3 mt-5 cursor'>
                                     <img className='w-100' src={ppc} alt="ppc" />
                                     <h4 className=' ff_gilroy fw_600 fs_24 fc_black mt-3'>Sit diam metus</h4>
                                     <p className='ff_gilroy fw_400 fs_16 fc_gray'>Arcu amet, consectetur vel pellentesque mattis ipsum sed mattis sed.</p>

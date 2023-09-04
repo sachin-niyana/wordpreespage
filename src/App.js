@@ -32,7 +32,7 @@ function App() {
 
   }, [])
   return (
-    <>
+    <div>
       <Preloder />
       <Nav />
       <Agency />
@@ -45,7 +45,7 @@ function App() {
       <Success />
       <Footer />
       <Back_to_top />
-    </>
+    </div>
   );
 }
 

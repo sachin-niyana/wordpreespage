@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom'
 
 const Long_term = () => {
     return (
-        <div className=' py-5 position-relative z-2 bg-white' id='long_term'>
+        <div className=' py-5 position-relative z-2 bg-white overflow-hidden' id='long_term'>
             <Container className='pb-5'>
                 <h1 className=' ff_konexy fw_400 fs_48px max-w-550 fc_black pb-4'>Long Term WordPress Partner</h1>
                 <p className=' ff_gilroy fw_400 fs_16 fc_gray max-w-690'>Our motto is the long-term partnership – we will not only develop your perfect website, but will be behind you through the whole process. They already trusted us:</p>

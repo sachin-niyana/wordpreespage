@@ -4,7 +4,7 @@ import { Col, Container, Row } from 'react-bootstrap'
 
 const Agile = () => {
     return (
-        <div className='py-5' id='agile'>
+        <div className='py-5 overflow-hidden' id='agile'>
             <Container>
                 <Row className='d-flex justify-content-center align-items-center'>
                     <Col lg={6} data-aos="fade-left" data-aos-duration="1500">

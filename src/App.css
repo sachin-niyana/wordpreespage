@@ -280,6 +280,15 @@ input[type="text"] {
   border: 1px solid #e3e3e3;
 }
 
+.card-3:hover {
+  width: 240px;
+  min-height: 335px;
+  border-radius: 16px;
+  padding: 10px;
+  border: 1px solid #e3e3e3;
+
+}
+
 .men-2 {
   max-width: 360px;
   max-height: 360px;

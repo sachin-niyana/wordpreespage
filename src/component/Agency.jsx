@@ -12,7 +12,6 @@ const Agency = () => {
         <div className='bg-black py-5 mt-5' id='agency'>
             <div className=" position-relative overflow-hidden">
                 <div className='shadow-3'></div>
-                {/* <img src={shadow} alt="shadow" className='' /> */}
                 <img src={shadow_2} alt="shadow" className='shadow-4' />
                 <Container className='mt-79 mt-5 pt-4 position-relative z-3 overflow-hidden'>
                     <Row className='heropadding'>

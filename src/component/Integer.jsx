@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 
 const Integer = () => {
     return (
-        <div className='py-5' id='integer'>
+        <div className='py-5 overflow-hidden' id='integer'>
             <Container>
                 <h3 className='ff_konexy fs_48 fw_400 fc_black'>Integer et nisl non</h3>
                 <Row className='d-flex justify-content-center'>

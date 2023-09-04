@@ -4,7 +4,7 @@ import { Col, Container, Row } from 'react-bootstrap'
 
 const Team = () => {
     return (
-        <div className='bg_white' id='team'>
+        <div className='bg_white overflow-hidden' id='team'>
             <Container className='py-40 py-sm-60 py-md-80 py-lg-120 py-4' data-aos="fade-down" data-aos-duration="1500">
                 <Row className='justify-content-center'>
                     <Col lg={6} className=' pt-4 pt-lg-0 mt-4'>

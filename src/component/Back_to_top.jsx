@@ -2,6 +2,7 @@
 import React from 'react'
 import top_arrow from '../assets/png/top-arrow.webp'
 import { useState } from 'react';
+import { Container } from 'react-bootstrap';
 
 const Back_to_top = () => {
     const [position, setPosition] = React.useState({ top: 0, left: 0 })
@@ -24,12 +25,12 @@ const Back_to_top = () => {
     })
     return (
         <>
-            <div className='my_container'>
+            <Container>
                 <span
                     onClick={() => setPosition({ ...position, position: { top: 0, left: 0 } })} className="back"
                     ref={scrollTop}
                 ><img className='w-100 arrow d-flex top-arrow' src={top_arrow} alt="topUp" /></span>
-            </div>
+            </Container>
         </>
     )
 }

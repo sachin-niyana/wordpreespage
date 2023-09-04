@@ -106,19 +106,19 @@ const Footer = () => {
                     <Col lg={3} md={4} sm={6} className='d-lg-flex justify-content-center'>
                         <div className='mb-0 mt-5'>
                             <h3 className=' ff_gilroy fw_400 fs_16 fc_white'>Contact</h3>
-                            <div className='d-flex align-items-center pt-3'>
+                            <div className='d-flex align-items-center pt-3 gap-2'>
                                 <img src={call} alt="arow" />
                                 <p className='ff_gilroy fw_400 fs_14 fc_white mb-0 cursor'>WordPress Development</p>
                             </div>
-                            <div className='d-flex align-items-center pt-3'>
+                            <div className='d-flex align-items-center pt-3 gap-2'>
                                 <img src={call} alt="arow" />
                                 <p className='ff_gilroy fw_400 fs_14 fc_white mb-0 cursor'>WooCommerce Development</p>
                             </div>
-                            <div className='d-flex align-items-center pt-3'>
+                            <div className='d-flex align-items-center pt-3 gap-2'>
                                 <img src={massege} alt="arow" />
                                 <p className='ff_gilroy fw_400 fs_14 fc_white mb-0 cursor'>WordPress Maintenance</p>
                             </div>
-                            <div className='d-flex align-items-center pt-3'>
+                            <div className='d-flex align-items-center pt-3 gap-2'>
                                 <img src={home} alt="arow" />
                                 <p className='ff_gilroy fw_400 fs_14 fc_white mb-0 cursor'>Speed Optimization</p>
                             </div>
